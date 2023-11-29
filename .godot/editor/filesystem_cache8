@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1701220576
+::res://images/::1701060887
+map tiles.png::CompressedTexture2D::1173384423985540092::1697688204::1701220577::1::::<><>::
+project zomboid map.png::CompressedTexture2D::8865669394854294245::1700902159::1701220577::1::::<><>::
+::res://project_zomboid_workshop_folder/::1701219424
+::res://scenes/::1701219497
+DebugScreen.tscn::PackedScene::7185138544357672096::1701219497::0::1::::<><>::res://scripts/Debug_Screen.gd
+Main.tscn::PackedScene::1314008429137857381::1701219497::0::1::::<><>::res://scripts/Cell_Searcher.gd<>uid://dykujrjcwrkrt::::res://images/project zomboid map.png<>uid://qynp8mbishmy::::res://images/map tiles.png<>res://scripts/User_Camera.gd<>res://scripts/ProjectZomboidVanillaMap.gd<>uid://damsggp3jbarg::::res://scenes/DebugScreen.tscn
+::res://scripts/::1701218788
+Cell_Searcher.gd::GDScript::-1::1701217690::0::1::::<>Node2D<>::
+Debug_Screen.gd::GDScript::-1::1701059070::0::1::::<>Control<>::
+ProjectZomboidVanillaMap.gd::GDScript::-1::1701218788::0::1::::<>TileMap<>::
+User_Camera.gd::GDScript::-1::1701059147::0::1::::<>Camera2D<>::
